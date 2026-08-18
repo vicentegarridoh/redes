@@ -17,3 +17,4 @@ Hola mundo
     inet6 fe80::faca:cf5c:1bf1:39c5/64 scope link noprefixroute 
        valid_lft forever preferred_lft forever
 
+intentado comitear de linux
